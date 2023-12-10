@@ -1,0 +1,8 @@
+Mateusz Sperkowski
+https://github.com/MattS0000/SNaRS_comp_2023Z
+D1-UNC.csv,162.875
+D2-UNC.csv,284.75
+D3-UNC.csv,277.671875
+D1-K=2.csv,72.921875
+D2-K=7.csv,89.3125
+D3-K=12.csv,352.28125
